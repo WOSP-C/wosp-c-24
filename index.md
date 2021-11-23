@@ -1,4 +1,4 @@
-## Wosp-C 2022
+## 7th Wosp-C 2022
 
 The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Its purpose was to open up new avenues of research on methods for software developers to address performance challenges. The software world is changing, and there are new challenges.
 
@@ -28,3 +28,18 @@ TBD
 ## Submission
 
 TBD
+
+## Wosp-C editions
+
+[WOSP-C 2021](https://wosp-c-21.github.io/)
+
+[WOSP-C 2020](https://wosp-c.github.io/wosp-c-20/)
+
+[WOSP-C 2018](http://wosp-c.uib.es/)
+
+[WOSP-C 2017](https://wosp-c.spec.org/)
+
+[WOSP-C 2016](http://wosp-c.ipd.kit.edu/)
+
+[WOSP-C 2015](http://wosp-c.ipd.kit.edu/wosp_c15/home/index.html)
+
