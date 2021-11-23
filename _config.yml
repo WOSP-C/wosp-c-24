@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Wosp-C 2022
 description: Workshop on Challenges in Performance Methods for Software Development WOSP-C 2022
+github:
+  is_project_page: false
