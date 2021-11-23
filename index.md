@@ -12,6 +12,10 @@ WOSP-C provides a forum for discussing emerging or unaddressed challenges in sof
  - Software performance challenges in Cyber-Physical Systems (CPS) and digitization processes
  - Open source challenges to performance
 
+## Organizing Committee
+ 
+ - Catalina M. Lladó, Universitat Illes Balears, Spain  
+ - Daniele Di Pompeo, Unisity of L'Aquila, Italy
 
 ## Technical Program Committee
 
