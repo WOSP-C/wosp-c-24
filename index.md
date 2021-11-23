@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Wosp-C 2022
 
-You can use the [editor on GitHub](https://github.com/WOSP-C/wosp-c-22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Its purpose was to open up new avenues of research on methods for software developers to address performance challenges. The software world is changing, and there are new challenges.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Call for paper
 
-### Markdown
+WOSP-C provides a forum for discussing emerging or unaddressed challenges in software and performance, including challenges in developing software with good performance, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. The main areas of interest of the workshop do not change with respect to previous editions. However, the this year the call for papers will emphasize:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Software performance challenges in Empirical Software Performance Engineering (new)
+ - Software performance challenges in Machine Learning (new)
+ - Machine Learning challenges to Software Performance Engineering (new)
+ - Software performance challenges in Cyber-Physical Systems (CPS) and digitization processes
+ - Open source challenges to performance
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Technical Program Committee
 
-- Bulleted
-- List
+TBD
 
-1. Numbered
-2. List
+## Important dates
 
-**Bold** and _Italic_ and `Code` text
+TBD
 
-[Link](url) and ![Image](src)
-```
+## Submission
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WOSP-C/wosp-c-22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TBD
