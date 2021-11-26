@@ -15,12 +15,12 @@ WOSP-C provides a forum for discussing emerging or unaddressed challenges in sof
 ## Organizing Committee
  
  - Catalina M. Lladó, Universitat Illes Balears, Spain  
- - Daniele Di Pompeo, Unisity of L'Aquila, Italy
+ - Daniele Di Pompeo, University of L'Aquila, Italy
 
 ## Technical Program Committee
 
  - Catalina M.	Lladó, Universitat Illes Balears,	Co-chair
- - Daniele	Di Pompeo,	Università dell'Aquila, Co-chair
+ - Daniele	Di Pompeo,	Univarsity dell'Aquila, Co-chair
  - Michele	Tucci, Charles University
  - José	Merseguer, Universidad de Zaragoza
  - Vincenzo	Grassi, University of Roma "Tor Vergata"
