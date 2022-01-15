@@ -33,9 +33,9 @@ WOSP-C provides a forum for discussing emerging or unaddressed challenges in sof
 
 | Deadline: Midnight (AOE)                      |     |
 |:----------------------------------------------|:---:|
-| Paper Submission                              | Jan 25, 2022 |
-| Paper Notification of Acceptance              | Feb 15, 2022 |
-| Camera-Ready Submission                       | Feb 24, 2022 |
+| Paper Submission                              | ~~Jan 25, 2022~~ Jan 31, 2022 |
+| Paper Notification of Acceptance              | Feb 15, 2022  |
+| Camera-Ready Submission                       | ~~Feb 24, 2022~~ May 4, 2022 |
 | Workshop                                      | Apr 10, 2022 |
 
 ## Submission
