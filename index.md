@@ -2,6 +2,20 @@
 
 The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Its purpose was to open up new avenues of research on methods for software developers to address performance challenges. The software world is changing, and there are new challenges.
 
+## Accepted Papers
+
+ - Samuel Beck, Sebastian Frank, Alireza Hakamian and André van Hoorn. __How is Transient Behavior Addressed in Practice? Insights from a Series of Expert Interviews__
+ - Martina Rapp, Max Scheerer and Ralf Reussner. __Design-time Performability Optimization of Runtime Adaptation Strategies__
+ - Siyu Zhou and Murray Woodside.	__A Multiserver Approximation for Cloud Scaling Analysis__
+ - Samyak S Sarnayak, Aditi Ahuja, Pranav Kesavarapu, Aayush Naik, Santhosh Kumar V and Subramaniam Kalambur.	__Analysis of Garbage Collection Patterns to Extend Microbenchmarks for Big Data Workloads__
+
+## Program April 10th, 2022 4PM - 6PM (CEST)
+TBD
+
+### KEYNOTE
+TBD
+
+
 ## Call for paper
 
 WOSP-C provides a forum for discussing emerging or unaddressed challenges in software and performance, including challenges in developing software with good performance, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. The main areas of interest of the workshop do not change with respect to previous editions. However, the this year the call for papers will emphasize:
