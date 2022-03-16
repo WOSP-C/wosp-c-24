@@ -2,19 +2,44 @@
 
 The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Its purpose was to open up new avenues of research on methods for software developers to address performance challenges. The software world is changing, and there are new challenges.
 
-## Accepted Papers
+## Program April 10th, 2022 2PM - 6PM (CEST)
+
+| time (PM CEST)| title |
+| --- | ---- |
+| 2:00 - 2:05 | Welcome: Catalina Lladò, and Daniele Di Pompeo |
+| 2:05 - 3:05 | **Keynote**: TBD - _Laura Carnevali (University of Florence)_ |
+| 3:05 - 3:30 | Samuel Beck, Sebastian Frank, Alireza Hakamian and André van Hoorn. __How is Transient Behavior Addressed in Practice? Insights from a Series of Expert Interviews__|
+| 3:30 - 3:55 | Martina Rapp, Max Scheerer and Ralf Reussner. __Design-time Performability Optimization of Runtime Adaptation Strategies__ |
+| 3:55 - 4:10 | BREAK | 
+| 4:10 - 4:35 | Siyu Zhou and Murray Woodside.	__A Multiserver Approximation for Cloud Scaling Analysis__ |
+| 4:35 - 4:55 | Samyak S Sarnayak, Aditi Ahuja, Pranav Kesavarapu, Aayush Naik, Santhosh Kumar V and Subramaniam Kalambur.	__Analysis of Garbage Collection Patterns to Extend Microbenchmarks for Big Data Workloads__|
+| 4:55 - 6:00 | **Keynote**: Software Performance Modeling: Then, Now and Beyond _Connie U. Smith ()_ | 
+
+
+### KEYNOTE (45 min + 15 min Q&Discussion)
+
+#### Laura Carnevali:
+
+**Short Bio**: Laura Carnevali is Associate Professor of Computer Science with the Department of Information Engineering of the University of Florence, Italy. Her research focuses on quantitative modeling and evaluation of non-Markovian systems, with specific interest on model driven engineering methods and on performance and reliability evaluation of real-time and embedded systems, intelligent transportation systems, and distributed systems.
+
+_TBD_
+
+#### Connie U. Smith:
+
+**Short Bio**: TBD
+
+_Software Performance Modeling: Then, Now and Beyond_
+
+Software Performance Models (SPM) represent details of software architecture and design, and predict performance of the associated systems under varying workloads and configurations. SPM have been used for over 50 years, and have evolved significantly over that time. Early software was single-threaded and executed on a single processor. As computing power evolved, the software architecture and design grew more complex, and the modeling technology followed. In the past, computer and software systems were expensive and thus typically found only in large installations and in mission-critical systems. Today, software is ubiquitous; it is found in almost every type of system deployed from IT and web-based systems, to scientific, computationally intensive systems, to automobiles, appliances, IoT, and many others. What do these changes mean for performance models for today’s systems and those of the future? What changes are required for the modeling technology, and for the use of models for Software Performance Engineering (SPE) in general? This talk considers the evolutionary role of performance models in SPE with an eye to the future. Will performance modeling in software development still play a role, and if so, what challenges do we face? We consider early performance model technology and how diﬀerent models were used depending on the types of systems deployed. Then, we explore the adaptation of the model technology and the role of models as software evolved. Finally, we consider current systems and those envisioned in the near future to identify what role performance models might fill and the resulting adaptations needed. These observations suggest both research areas and educational requirements for researchers and performance engineers in the future.
+
+## Accepted Papers (20 min + 5 min Q&A)
 
  - Samuel Beck, Sebastian Frank, Alireza Hakamian and André van Hoorn. __How is Transient Behavior Addressed in Practice? Insights from a Series of Expert Interviews__
  - Martina Rapp, Max Scheerer and Ralf Reussner. __Design-time Performability Optimization of Runtime Adaptation Strategies__
  - Siyu Zhou and Murray Woodside.	__A Multiserver Approximation for Cloud Scaling Analysis__
  - Samyak S Sarnayak, Aditi Ahuja, Pranav Kesavarapu, Aayush Naik, Santhosh Kumar V and Subramaniam Kalambur.	__Analysis of Garbage Collection Patterns to Extend Microbenchmarks for Big Data Workloads__
 
-## Program April 10th, 2022 2PM - 6PM (CEST)
-TBD
-
-### KEYNOTE
-TBD
-
+---
 
 ## Call for paper
 
