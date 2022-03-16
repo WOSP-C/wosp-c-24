@@ -9,7 +9,7 @@ The WOSP-C series of workshops on challenges in software performance has taken p
  - Siyu Zhou and Murray Woodside.	__A Multiserver Approximation for Cloud Scaling Analysis__
  - Samyak S Sarnayak, Aditi Ahuja, Pranav Kesavarapu, Aayush Naik, Santhosh Kumar V and Subramaniam Kalambur.	__Analysis of Garbage Collection Patterns to Extend Microbenchmarks for Big Data Workloads__
 
-## Program April 10th, 2022 4PM - 6PM (CEST)
+## Program April 10th, 2022 2PM - 6PM (CEST)
 TBD
 
 ### KEYNOTE
