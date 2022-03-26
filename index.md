@@ -7,22 +7,38 @@ The WOSP-C series of workshops on challenges in software performance has taken p
 | time (PM CEST)| title |
 | --- | ---- |
 | 2:00 - 2:05 | Welcome: Catalina Lladó, and Daniele Di Pompeo |
-| 2:05 - 3:05 | **Keynote**: TBD - _Laura Carnevali (University of Florence)_ |
+| 2:05 - 3:05 | **Keynote**: Quantitative Evaluation of Non-Markovian systems: A Model Driven Engineering Approach - _Laura Carnevali (University of Florence)_ |
 | 3:05 - 3:30 | Samuel Beck, Sebastian Frank, Alireza Hakamian and André van Hoorn. __How is Transient Behavior Addressed in Practice? Insights from a Series of Expert Interviews__|
 | 3:30 - 3:55 | Martina Rapp, Max Scheerer and Ralf Reussner. __Design-time Performability Optimization of Runtime Adaptation Strategies__ |
 | 3:55 - 4:10 | BREAK | 
 | 4:10 - 4:35 | Siyu Zhou and Murray Woodside.	__A Multiserver Approximation for Cloud Scaling Analysis__ |
 | 4:35 - 4:55 | Samyak S Sarnayak, Aditi Ahuja, Pranav Kesavarapu, Aayush Naik, Santhosh Kumar V and Subramaniam Kalambur.	__Analysis of Garbage Collection Patterns to Extend Microbenchmarks for Big Data Workloads__|
-| 4:55 - 6:00 | **Keynote**: Software Performance Modeling: Then, Now and Beyond _Connie U. Smith ()_ | 
+| 4:55 - 6:00 | **Keynote**: Software Performance Modeling: Then, Now and Beyond _Connie U. Smith (L&S Computer Technology, Inc.)_ | 
 
 
 ### KEYNOTE (45 min + 15 min Q&Discussion)
 
 #### Laura Carnevali:
 
-**Short Bio**: Laura Carnevali is Associate Professor of Computer Science with the Department of Information Engineering of the University of Florence, Italy. Her research focuses on quantitative modeling and evaluation of non-Markovian systems, with specific interest on model driven engineering methods and on performance and reliability evaluation of real-time and embedded systems, intelligent transportation systems, and distributed systems.
+**Short Bio**: Laura Carnevali is Associate Professor of Computer Science with the Department of Information Engineering of the University of Florence,
+Italy. Her research focuses on novel approaches for quantitative modeling and evaluation of concurrent non-Markovian systems, with
+specific interest in hierarchical modeling formalisms, compositional solution techniques, and practices of Model Driven Engineering (MDE) and
+automated model transformation. She has applied these methods to a variety of fields notably including:
 
-_TBD_
+ - performability evaluation of railway signalling systems;
+ - performability evaluation of intelligent transportation systems;
+ - performability evaluation of repair procedures for gas and water distribution networks;
+ - input generation in real-time testing of stochastic systems;
+ - activity recognition in ambient assisted living.
+
+She has also worked on correctness verification of concurrent timed systems, with specific interest in verification of hierarchical scheduling systems, and integration of formal methods in the development life cycle of real-time software. 
+
+**_Quantitative Evaluation of Non-Markovian systems: A Model Driven Engineering Approach_**
+
+Non-Markovian models enable the representation of complex cyber-physical systems including synchronous phenomena (e.g., periodic arrivals, timeouts, offsets) and non-exponential durations possibly with bounded support (e.g., delays in transportation systems, minimum and maximum execution times in real-time systems), notably facilitating fitting of stochastic parameters from observed data. Solution techniques for quantitative evaluation of these models can give decisive support to system development by enabling early verification of design choices and assessment of non-functional requirements. Effective exploitation of this potential faces both practical and theoretical complexities. On the one hand, the activity of model construction must fit the context of use, automatically generating models from artifacts of the industrial practice and from actual operational data. On the other hand, the 
+analysis needs to be able to afford complexity in terms of the size and class of the stochastic processes underlying the models generated automatically without manual intervention.
+
+This talk presents a Model Driven Engineering (MDE) approach to performance evaluation of multimodal urban intersections, supporting automated transformation of semi-formal artifacts of the Unified Modeling Language (UML) into stochastic models that can be efficiently analyzed. On the one hand, a meta-model of the system captures structural and behavioral information on the tram flows and the car flows that cross at the intersection. On the other hand, transient analysis of a microscopic model of tram traffic, defined by Stochastic Time Petri Nets (STPNs), is combined with analytical solution of a set of ordinary differential equations characterizing the behaviour of a macroscopic model of car traffic, defined by finite-capacity queues, providing the expected number of queued cars over time for intervals of arbitrary duration. Validation of the approach in terms of accuracy and complexity is performed with respect to a traffic simulator using a large-size benchmark. Effectiveness of the solution is demonstrated on relevant use cases in operation and management of urban transportation systems.
 
 #### Connie U. Smith:
 
