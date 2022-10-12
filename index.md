@@ -78,8 +78,8 @@ WOSP-C provides a forum for discussing emerging or unaddressed challenges in sof
 
 ## Technical Program Committee
 
- - Daniele	Di Pompeo
- - Catalina M.	Lladó
+ - Catalina M.	Lladó (Co-chair)
+ - Daniele	Di Pompeo (Co-chair)
  - André	van Hoorn
  - Alberto	Avritzer
  - Murray	Woodside
