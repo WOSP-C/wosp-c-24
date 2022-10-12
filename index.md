@@ -78,19 +78,19 @@ WOSP-C provides a forum for discussing emerging or unaddressed challenges in sof
 
 ## Technical Program Committee
 
- - Catalina M.	Lladó (Co-chair)
- - Daniele	Di Pompeo (Co-chair)
- - André	van Hoorn
- - Alberto	Avritzer
- - Murray	Woodside
- - Connie U.	Smith
- - José	Merseguer
- - Diego	Perez-Palacin
- - Andre	Bondi
- - Steffen	Becker
- - Mauro	Caporuscio
- - Michele	Tucci	
- - Vincenzo	Grassi	
+ - Catalina M.	Lladó, Universitat Illes Balears
+ - Daniele	Di Pompeo, University of L'Aquila
+ - André	van Hoorn, University of Hamburg
+ - Alberto	Avritzer, eSulabSolutions
+ - Murray	Woodside, Carleton University
+ - Connie U.	Smith, Performance Engineering Services
+ - José	Merseguer, Universidad de Zaragoza
+ - Diego	Perez-Palacin, Linnaeus University
+ - Andre	Bondi, Software Performance and Scalability Consulting LLC
+ - Steffen	Becker, University of Stuttgart
+ - Mauro	Caporuscio, Linnaeus University
+ - Michele	Tucci, Charles University	
+ - Vincenzo	Grassi, University of Roma "Tor Vergata"	
 
 ## Important dates
 
