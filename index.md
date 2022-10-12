@@ -78,15 +78,19 @@ WOSP-C provides a forum for discussing emerging or unaddressed challenges in sof
 
 ## Technical Program Committee
 
- - Catalina M.	Lladó, Universitat Illes Balears,	Co-chair
- - Daniele	Di Pompeo,	Univarsity dell'Aquila, Co-chair
- - Michele	Tucci, Charles University
- - José	Merseguer, Universidad de Zaragoza
- - Vincenzo	Grassi, University of Roma "Tor Vergata"
- - Murray	Woodside, Carleton University
- - André	van Hoorn, University of Hamburg
- - Diego	Perez-Palacin, Linnaeus University
- - Alberto	Avritzer,	eSulabSolutions
+ - Daniele	Di Pompeo
+ - Catalina M.	Lladó
+ - André	van Hoorn
+ - Alberto	Avritzer
+ - Murray	Woodside
+ - Connie U.	Smith
+ - José	Merseguer
+ - Diego	Perez-Palacin
+ - Andre	Bondi
+ - Steffen	Becker
+ - Mauro	Caporuscio
+ - Michele	Tucci	
+ - Vincenzo	Grassi	
 
 ## Important dates
 
