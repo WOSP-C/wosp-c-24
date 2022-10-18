@@ -1,4 +1,4 @@
-## 7th Wosp-C 2023
+## 8th Wosp-C 2023
 
 The WOSP-C series of workshops on challenges in software performance has taken place at every ICPE except ICPE 2019 since ICPE 2015. It provides a forum for the discussion of emerging or unaddressed challenges in software and performance, including challenges in developing software to be performant, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. Its purpose was to open up new avenues of research on methods for software developers to address performance challenges. The software world is changing, and there are new challenges.
 
