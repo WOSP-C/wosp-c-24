@@ -7,13 +7,17 @@ The WOSP-C series of workshops on challenges in software performance has taken p
 
 ## Call for paper
 
-WOSP-C provides a forum for discussing emerging or unaddressed challenges in software and performance, including challenges in developing software with good performance, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. The main areas of interest of the workshop do not change with respect to previous editions. However, the this year the call for papers will emphasize:
+WOSP-C provides a forum for discussing emerging or unaddressed challenges in software and performance, including challenges in developing software with good performance, concurrent programming issues, performance and architecture, performance measurement, cloud performance, and testing. The main areas of interest of the workshop do not change with respect to previous editions. 
+We encourage contributions that help to discuss topics that are relevant in the performance community. In this edition, in particular, we would like to emphasize the following:
 
- - Software performance challenges in Empirical Software Performance Engineering (new)
- - Software performance challenges in Machine Learning (new)
- - Machine Learning challenges to Software Performance Engineering (new)
- - Software performance challenges in Cyber-Physical Systems (CPS) and digitization processes
- - Open source challenges to performance
+ - Energy efficiency and sustainability
+ - Controlled experiment design, data-driven experiments, and diagnostics in empirical studies
+ - Data exchange and tools interoperability
+ - Model learning and extraction techniques
+ - Model validation and calibration
+ - Cyber-Physical Systems (CPS) and digitization processes
+ - Performance engineering processes encompassing humans in the loop
+ - Adoption of performance engineering practices in industry
 
 ## Organizing Committee
  
