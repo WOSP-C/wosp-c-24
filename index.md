@@ -39,11 +39,7 @@ TBD
 
 ## Submission
 
-Authors are invited to submit original, unpublished papers that are not being considered in another forum. Papers should be in ACM format. They should describe research results, experience, visions or new initiatives, and not exceed 8 pages in length. They should be submitted via Easychair at
-
-[EasyChair WOSPC2022](https://easychair.org/conferences/?conf=wospc2022)
-
-ACM templates may be found [here](https://www.acm.org/publications/proceedings-template). Presented papers will be published in the ICPE 2022 companion proceedings that will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE2022 and to WOSP-C or any other ICPE2022 workshop is not permitted.
+TBD
 
 ## Wosp-C editions
 
