@@ -1,5 +1,5 @@
 ---
-image: /coimbra.png
+image: /10249091285_56c3944b28_k.jpg
 ---
 
 ## 8th Wosp-C 2023
