@@ -21,12 +21,20 @@ We encourage contributions that help to discuss topics that are relevant in the 
 
 ## Organizing Committee
  
- - Michele Tucci, Charles University, Czech Republic
  - Daniele Di Pompeo, University of L'Aquila, Italy
+ - Michele Tucci, Charles University, Czech Republic
 
 ## Technical Program Committee
 
-TBD
+- Steffen	Becker,	University of Stuttgart	
+- J. Andres	Diaz-Pace, ISISTAN Research Institute, UNICEN University
+- Emilio	Incerto,	IMT School for Advanced Studies Lucca
+- Tse-Hsun Peter	Chen,	Concordia University
+- André	van Hoorn,	University of Hamburg
+- Catalina M.	Lladó,	Universitat Illes Balears
+- Laura	Carnevali,	Dept. of Information Engineering - University of Florence
+- Murray	Woodside, Carleton University
+- Andre	Bondi, Software Performance and Scalability Consulting LLC
 
 ## Important dates
 
