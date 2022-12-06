@@ -43,10 +43,10 @@ We encourage contributions that help to discuss challenges on topics that are re
 
 | Deadline: Midnight (AOE)                      |     |
 |:----------------------------------------------|:---:|
-| Paper Submission                              | TBD |
-| Paper Notification of Acceptance              | TBD |
-| Camera-Ready Submission                       | TBD |
-| Workshop                                      | TBD |
+| Paper Submission                              | January 24, 2023 |
+| Paper Notification of Acceptance              | February 27, 2023 |
+| Camera-Ready Submission                       | March 6, 2023 |
+| Workshop                                      | April 15 or 16, 2023 |
 
 ## Submission
 
