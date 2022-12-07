@@ -41,7 +41,7 @@ We encourage contributions that help to discuss challenges on topics that are re
 
 ## Important dates
 
-| Deadline: Midnight (AOE)                      |     |
+| Deadline: Midnight (AoE)                      |     |
 |:----------------------------------------------|:----|
 | Paper Submission                              | January 24, 2023 |
 | Paper Notification of Acceptance              | February 27, 2023 |
