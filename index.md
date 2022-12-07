@@ -50,7 +50,16 @@ We encourage contributions that help to discuss challenges on topics that are re
 
 ## Submission
 
-TBD
+Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), short (4 pages), and vision or work-in-progress (2 pages) papers. They should be submitted via Easychair at
+
+[EasyChair WOSP-C 2023](https://easychair.org/conferences/?conf=icpe2023) <br />
+(by selecting the "author" role, then "New Submission", and then the WOSP-C 2023 track)
+
+ACM templates may be found [here](https://www.acm.org/publications/proceedings-template). Presented papers will be published in the ICPE 2023 companion proceedings, which will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism, as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE 2023 and to WOSP-C or any other ICPE 2023 workshop is not permitted.
+
+## Contact
+
+[wosp-c2023@easychair.org](mailto:wosp-c2023@easychair.org)
 
 ## Past WOSP-C editions
 
