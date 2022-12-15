@@ -43,14 +43,14 @@ We encourage contributions that help to discuss challenges on topics that are re
 
 | Deadline: Midnight (AoE)                      |     |
 |:----------------------------------------------|:----|
-| Paper Submission                              | January 24, 2023 |
-| Paper Notification of Acceptance              | February 27, 2023 |
-| Camera-Ready Submission                       | March 6, 2023 |
+| Paper Submission                              | January 19, 2023 |
+| Paper Notification of Acceptance              | February 13, 2023 |
+| Camera-Ready Submission                       | February 20, 2023 |
 | Workshop                                      | April 15 or 16, 2023 |
 
 ## Submission
 
-Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), short (4 pages), and vision or work-in-progress (2 pages) papers. They should be submitted via Easychair at
+Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), short (4 pages), and vision or work-in-progress (2 pages) papers. Page limits include references. Papers should be submitted via Easychair at
 
 [EasyChair WOSP-C 2023](https://easychair.org/conferences/?conf=icpe2023) <br />
 (by selecting the "author" role, then "New Submission", and then the WOSP-C 2023 track)
