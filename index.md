@@ -9,6 +9,27 @@ The WOSP-C series of workshops on challenges in software performance has taken p
 
 ---
 
+## Program 15th, April 2023
+TBD
+
+### Keynote
+
+**Paolo Romano**, IST, Lisbon University & INESC-ID
+
+**_Non-Volatile Hardware Transactional Memory: Advancements, Challenges, and Future Directions_**
+
+### Accepted papers
+
+Vittorio Cortellessa, Luigi Pomante and Vincenzo Stoico	From UML/MARTE Specifications to ESL HW/SW Co-Design: Early Functional Verification and Timing Validation
+
+David Georg Reichelt, Stefan Kühne and Wilhelm Hasselbring	Towards Solving the Challenge of Minimal Overhead Monitoring
+
+Murray Woodside	Heuristic Derivation of a Fluid Model from a Layered Queueing Network
+
+Sebastian Frank, Julian Brott, Dominik Kesim, Heiko Holz, Matthias Eschhold and André van Hoorn	dqualizer: Domain-Centric Runtime Quality Analysis of Business-Critical Application Systems
+
+---
+
 ## Call for paper
 
 We encourage contributions that help to discuss challenges on topics that are relevant in the performance community. In this edition, in particular, we would like to focus on the following:
@@ -46,7 +67,7 @@ We encourage contributions that help to discuss challenges on topics that are re
 | Paper Submission                              | ~~January 19~~ January 26, 2023 |
 | Paper Notification of Acceptance              | February 13, 2023 |
 | Camera-Ready Submission                       | February 20, 2023 |
-| Workshop                                      | April 15 or 16, 2023 |
+| Workshop                                      | April 15, 2023 |
 
 ## Submission
 
