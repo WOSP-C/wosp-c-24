@@ -16,7 +16,11 @@ TBD
 
 **Paolo Romano**, IST, Lisbon University & INESC-ID
 
+_Biography_: TBD
+
 **_Non-Volatile Hardware Transactional Memory: Advancements, Challenges, and Future Directions_**
+
+_Abstract_: TBD
 
 ### Accepted papers
 
