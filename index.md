@@ -10,27 +10,47 @@ The WOSP-C series of workshops on challenges in software performance has taken p
 ---
 
 ## Program 15th, April 2023
-TBD
+
+| Time (PM GMT-1)| Title |
+| --- | ---- |
+| 2:00 - 2:05 | Welcome: Michele Tucci, and Daniele Di Pompeo |
+| 2:05 - 3:05 | **Keynote**: Non-Volatile Hardware Transactional Memory: Advancements, Challenges, and Future Directions - _**Paolo Romano**, IST, Lisbon University & INESC-ID_ |
+| 3:05 - 3:30 | Vittorio Cortellessa, Luigi Pomante and Vincenzo Stoico. __From UML/MARTE Specifications to ESL HW/SW Co-Design: Early Functional Verification and Timing Validation__|
+| 3:30 - 4:00 | BREAK | 
+| 4:00 - 4:25 | Sebastian Frank, Julian Brott, Dominik Kesim, Heiko Holz, Matthias Eschhold and André van Hoorn.	__dqualizer: Domain-Centric Runtime Quality Analysis of Business-Critical Application Systems__ |
+| 4:25 - 4:50 | David Georg Reichelt, Stefan Kühne and Wilhelm Hasselbring.	__Towards Solving the Challenge of Minimal Overhead Monitoring__|
+| 4:50 - 5:15 | Murray Woodside.	__Heuristic Derivation of a Fluid Model from a Layered Queueing Network__|
 
 ### Keynote
 
 **Paolo Romano**, IST, Lisbon University & INESC-ID
 
-_Biography_: TBD
+_Biography_: 
+
+Paolo Romano received his PhD from Rome University "Sapienza" (2007) and his Master degree summa cum laude from Rome University "Tor Vergata" (2002). He is currently an Associate Professor at Técnico (U. Lisboa) and a Researcher at INESC-ID. His research interests include parallel and distributed computing, high performance computing, emerging hardware technologies and hardware-software co-design techniques. In these areas, he published more than 150 papers, receiving 3 best awards, and has coordinated several national and European projects, including a COST Action on Transactional Memory bringing together researchers from 60 institutions and 17 countries. He serves regularly as Program Committee member and reviewer for renowned international conferences and
+journals, including DSN, EuroSys, ICDCS, PPoPP,IEEE TKDE, IEEE
+TPDS, ACM TOPLAS.
 
 **_Non-Volatile Hardware Transactional Memory: Advancements, Challenges, and Future Directions_**
 
-_Abstract_: TBD
+_Abstract_: 
+
+Transactional memory (TM) has emerged as a powerful paradigm to simplify concurrent programming. Nowadays, hardware-based TM (HTM) implementations are available in several mainstream CPUs (e.g., by ARM, Intel and IBM). Due to their hardware nature, HTM implementations spare the cost of software instrumentation and can efficiently detect conflicts by extending existing cache-coherency protocols. However, their cache-centric approach also
+imposes a number of limitations that impact how effectively such systems can be used in practice. 
+This talk investigates the challenges that arise when leveraging existing HTM systems in conjunction with another recent disruptive hardware technology, namely Non-Volatile Memory (NVM). NVM, such as Intel Optane DC, provide much higher density than existing DRAM, while attaining competitive performance and pre-serving DRAM’s byte addressability. However, the cache-centric approach adopted by existing HTM implementations raises a crucial problem when these are used in conjunction with NVM: since CPU caches are volatile, existing HTM fail to guarantee that data updated by committed transactions are atomically persisted to NVM. 
+I will overview how this problem has been so far tackled in the literature, with a focus on solutions that do not assume ad-hoc hardware mechanisms not provided by current HTM implementations, but that rather rely on hardware-software co-design techniques to ensure consistency on unmodified existing HTM systems. I will conclude by presenting ongoing research directions that depart from state of the art approaches in a twofold way: i) they assume the availability of durable caches, i.e., systems equipped with additional power sources that ensure that cache contents can be safely persisted to NVM upon crashes; ii) they assume a weaker isolation levels at the TM level, namely Snapshot Isolation, which despite being more relaxed than the reference consistency model for TM systems (e.g., opacity), can still ensure correct execution of a wide range of applications while enabling new optimizations to boost the efficiency HTM applications operating on NVM.
+
+---
 
 ### Accepted papers
 
-Vittorio Cortellessa, Luigi Pomante and Vincenzo Stoico	From UML/MARTE Specifications to ESL HW/SW Co-Design: Early Functional Verification and Timing Validation
+Vittorio Cortellessa, Luigi Pomante and Vincenzo Stoico	**From UML/MARTE Specifications to ESL HW/SW Co-Design: Early Functional Verification and Timing Validation**
 
-David Georg Reichelt, Stefan Kühne and Wilhelm Hasselbring	Towards Solving the Challenge of Minimal Overhead Monitoring
+David Georg Reichelt, Stefan Kühne and Wilhelm Hasselbring	**Towards Solving the Challenge of Minimal Overhead Monitoring**
 
-Murray Woodside	Heuristic Derivation of a Fluid Model from a Layered Queueing Network
+Murray Woodside	**Heuristic Derivation of a Fluid Model from a Layered Queueing Network**
 
-Sebastian Frank, Julian Brott, Dominik Kesim, Heiko Holz, Matthias Eschhold and André van Hoorn	dqualizer: Domain-Centric Runtime Quality Analysis of Business-Critical Application Systems
+Sebastian Frank, Julian Brott, Dominik Kesim, Heiko Holz, Matthias Eschhold and André van Hoorn	**dqualizer: Domain-Centric Runtime Quality Analysis of Business-Critical Application Systems**
 
 ---
 
