@@ -52,7 +52,7 @@ Murray Woodside	**Heuristic Derivation of a Fluid Model from a Layered Queueing 
 
 Sebastian Frank, Julian Brott, Dominik Kesim, Heiko Holz, Matthias Eschhold and André van Hoorn	**dqualizer: Domain-Centric Runtime Quality Analysis of Business-Critical Application Systems**
 
-_Proceedings_: [https://dl.acm.org/doi/proceedings/10.1145/3578245](https://dl.acm.org/doi/proceedings/10.1145/3578245)
+_Proceedings_: [https://dl.acm.org/doi/proceedings/10.1145/3578245#heading13](https://dl.acm.org/doi/proceedings/10.1145/3578245#heading13)
 ---
 
 ## Call for paper
