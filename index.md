@@ -1,7 +1,3 @@
----
-img: ":10249091285_56c3944b28_k.jpg"
----
-
 ## 9th WOSP-C 2024
 
 The Workshop on Challenges in Performance Methods for Software Development (WOSP-C) serves as a forum for discussions on novel and unresolved challenges in the field of software performance engineering.
