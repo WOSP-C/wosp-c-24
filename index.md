@@ -34,7 +34,6 @@ This workshop edition will explore topics related to:
 - Jinfu Chen, Wuhan University, China
 - Marios Fokaefs, York University, United Kingdom
 - Sören Henning, Johannes Kepler University/Dynatrace, Austria
-- André van Hoorn, University of Hamburg, Germany
 - Emilio Incerto, IMT School for Advanced Studies, Italy
 - Michele Tucci, University of L’Aquila, Italy
 
