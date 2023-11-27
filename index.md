@@ -28,8 +28,6 @@ This workshop edition will explore topics related to:
 
 ## Technical Program Committee
 
-Of course, here's the list with each entry preceded by a dash:
-
 - Andre Bondi, Software Performance and Scalability Consulting LLC, USA
 - Vittorio Cortellessa, University of L’Aquila, Italy
 - Diego Elias Costa, Concordia University, Canada
