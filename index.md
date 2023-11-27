@@ -17,7 +17,7 @@ This workshop edition will explore topics related to:
 - Performance engineering in Agile/DevOps software processes
 - Green software and energy efficiency
 - Performance engineering for Machine Learning systems
-- Machine learning for Performance engineering tasks
+- Machine learning for performance engineering tasks
 - Industry reports on performance engineering challenges and experience
 
 
@@ -28,11 +28,22 @@ This workshop edition will explore topics related to:
 
 ## Technical Program Committee
 
-To be announced
+Of course, here's the list with each entry preceded by a dash:
+
+- Andre Bondi, Software Performance and Scalability Consulting LLC, USA
+- Vittorio Cortellessa, University of L’Aquila, Italy
+- Diego Elias Costa, Concordia University, Canada
+- Jinfu Chen, Wuhan University, China
+- Marios Fokaefs, York University, United Kingdom
+- Sören Henning, Johannes Kepler University/Dynatrace, Austria
+- André van Hoorn, University of Hamburg, Germany
+- Emilio Incerto, IMT School for Advanced Studies, Italy
+- Michele Tucci, University of L’Aquila, Italy
 
 
 ## Important dates
-To be announced
+- Paper submission: February 2, 2024
+- Author notification: March 1, 2024 
 
 
 ## Past WOSP-C editions
