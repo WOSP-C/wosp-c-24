@@ -29,10 +29,12 @@ This workshop edition will explore topics related to:
 ## Technical Program Committee
 
 - Andre Bondi, Software Performance and Scalability Consulting LLC, USA
+- Jinfu Chen, Wuhan University, China
+- Tse-Hsun (Peter) Chen, Concordia University, Canada
 - Vittorio Cortellessa, University of L’Aquila, Italy
 - Diego Elias Costa, Concordia University, Canada
-- Jinfu Chen, Wuhan University, China
 - Marios Fokaefs, York University, United Kingdom
+- Sebastian Frank,  Universität Hamburg, Germany
 - Sören Henning, Johannes Kepler University/Dynatrace, Austria
 - Emilio Incerto, IMT School for Advanced Studies, Italy
 - Michele Tucci, University of L’Aquila, Italy
