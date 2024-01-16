@@ -31,7 +31,6 @@ This workshop edition will explore topics related to:
 - Andre Bondi, Software Performance and Scalability Consulting LLC, USA
 - Jinfu Chen, Wuhan University, China
 - Tse-Hsun (Peter) Chen, Concordia University, Canada
-- Vittorio Cortellessa, University of L’Aquila, Italy
 - Diego Elias Costa, Concordia University, Canada
 - Marios Fokaefs, York University, United Kingdom
 - Sebastian Frank,  Universität Hamburg, Germany
