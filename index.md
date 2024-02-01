@@ -40,8 +40,8 @@ This workshop edition will explore topics related to:
 
 
 ## Important dates
-- Paper submission: February 2, 2024
-- Author notification: March 1, 2024
+- Paper submission: February 9, 2024
+- Author notification: March 5, 2024
 
 ## Submission
 
