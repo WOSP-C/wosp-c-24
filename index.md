@@ -5,7 +5,8 @@ The workshop encompasses topics such as performance assurance processes, the int
 
 
 ## Program
-WOSP-C 2024 will be held on May 7. Details about the program will be provided soon.
+The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7. Details about the program will be provided soon.
+
 
 ## Call for paper
 
