@@ -3,6 +3,10 @@
 The Workshop on Challenges in Performance Methods for Software Development (WOSP-C) serves as a forum for discussions on novel and unresolved challenges in the field of software performance engineering.
 The workshop encompasses topics such as performance assurance processes, the interplay between performance and software architecture, performance testing and debugging, and performance monitoring. The primary areas of interest for the workshop remain consistent with previous editions, but this edition scope will also extend to include additional novel topics.
 
+
+## Program
+WOSP-C 2024 will be held on May 7. Details about the program will be provided soon.
+
 ## Call for paper
 
 We welcome contributions that foster meaningful discussions on both foundational and novel topics within the performance engineering community.
