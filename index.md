@@ -6,6 +6,7 @@ The workshop encompasses topics such as performance assurance processes, the int
 
 ## Program
 The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
+
 | Time (AM GMT+1)      | Title |
 |----------------------|-------|
 | 9:00 - 9:05          | Welcome: Heng Li, and Luca Traini |
