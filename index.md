@@ -7,16 +7,16 @@ The workshop encompasses topics such as performance assurance processes, the int
 ## Program
 The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 | Time (AM GMT+1)      | Title |
-| --- | ---- |
-| 9:00 - 9:05 | Welcome: Heng Li, and Luca Traini |
-| 9:05 - 9:50 | **Keynote**: Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering - **Marin Litoiu**, York University |
-| 9:50 - 10:10 | Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk. __HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware__|
+|----------------------|-------|
+| 9:00 - 9:05          | Welcome: Heng Li, and Luca Traini |
+| 9:05 - 9:50          | **Keynote**: Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering - **Marin Litoiu**, York University |
+| 9:50 - 10:10         | Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk. __HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware__|
 | 10:10 - 10:30        | Josef Mayrhofer. __Establish a Performance Engineering Culture in Organizations__|
-| 10:30 - 11:00        | Coffee Break | 
-| 11:00 - 11:45        | **Keynote**: 25+ years of Software Performance: From Integrated System Modelling to ML-based Analysis, What’s Next? - **Vittorio Cortellessa**, University of L’Aquila |
-| 11:45 - 12:05        | Rares Dobre, Zifeng Niu and Giuliano Casale. __Approximating Fork-Join Systems via Mixed Model Transformations__|
-| 12:05 - 12:17        | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen. __Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
-| 12:17 - 12:29        | Andreas Brunnert. __Green Software Metrics__|
+| 10:30 - 11:00        | Coffee Break ☕️ | 
+| 11:00 - 11:45        | **Keynote**:  25+ years of Software Performance: From Integrated System Modelling to ML-based Analysis, What’s Next? - **Vittorio Cortellessa**, University of L’Aquila |
+| 11:45 - 12:05        |  Rares Dobre, Zifeng Niu and Giuliano Casale.	__Approximating Fork-Join Systems via Mixed Model Transformations__|
+| 12:05 - 12:17        | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	__Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
+| 12:17 - 12:29        | Andreas Brunnert.	__Green Software Metrics__|
 
 ### Keynote
 
