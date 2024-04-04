@@ -5,7 +5,68 @@ The workshop encompasses topics such as performance assurance processes, the int
 
 
 ## Program
-The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7. Details about the program will be provided soon.
+The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
+| Time (AM GMT+1)      | Title |
+|----------------------|-------|
+| 9:00 - 9:05          | Welcome: Heng Li, and Luca Traini |
+| 9:05 - 9:50          | **Keynote**: Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering - **Marin Litoiu**, York University |
+| 9:50 - 10:10         | Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk. __HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware__|
+| 10:10 - 10:30        | Josef Mayrhofer. __Establish a Performance Engineering Culture in Organizations__|
+| 10:30 - 11:00        | Coffee Break ☕️ | 
+| 11:00 - 11:45        | **Keynote**: 25+ years of Software Performance: From Integrated System Modelling to ML-based Analysis, What’s Next? - **Vittorio Cortellessa**, University of L’Aquila |
+| 11:45 - 12:05        | Rares Dobre, Zifeng Niu and Giuliano Casale. __Approximating Fork-Join Systems via Mixed Model Transformations__|
+| 12:05 - 12:17        | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen. __Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
+| 12:17 - 12:29        | Andreas Brunnert. __Green Software Metrics__|
+
+### Keynote
+
+**Marin Litoiu**, York University
+
+_Biography_: 
+
+Marin Litoiu is a Professor of Software Engineering in the Department of Electrical Engineering and Computer Science and in the School of Information Technology, York University. He is also a Fellow of the Canadian Academy of Engineering. Dr. Litoiu leads the Adaptive Software Research Lab and focuses on making large software systems more versatile, resilient, energy-efficient, self-healing and self-optimizing. His research won many awards including the IBM Canada CAS Research Project of the Year Award,  the IBM CAS Faculty Fellow of the Year Award for his “impact on IBM people, processes and technology,” three Best Paper Awards and two Most Influential Paper Awards.  Prior to joining York University, Dr. Litoiu was a Research Staff member with the Centre for Advanced Studies in the IBM Toronto Lab where he led the research programs in software engineering and autonomic computing. He received the Canada NSERC Synergy Award for Innovation in recognition for these collaborative university/industry activities. He was also recipient of the IBM Outstanding Technical Contribution Award for his research vision on Cloud Computing. Dr. Litoiu   is one of the founders of the SEAMS Symposium series—ACM/IEEE Software Engineering for Adaptive and Self-Managing Systems. Dr. Litoiu is also the Scientific Director of "Dependable Internet of Things Applications (DITA)," an NSERC CREATE program.
+
+
+**_Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering_**
+
+_Abstract_: 
+
+Cloud computing and cloud-native platforms have rendered runtime environments more malleable. Simultaneously, the growing demand for flexible and agile software applications and services has driven the emergence of self-adaptive architectures. These architectures, in turn, facilitate software performance modeling, tuning, optimization, and scaling in a continuous manner, blurring the boundary between development-time and run-time. Self-adaptive software employs feedback loop controllers inspired by control theory or variations of the Monitoring-Analysis-Planning-Acting (MAPE) architecture. Whether implemented in a centralized or decentralized manner, most controllers utilize performance models that are learned or tuned at run-time. This shift implies that software is designed to be observable and controllable during execution, presupposing the co-design of software applications and their runtime controllers. 
+This talk commences with a succinct overview of the evolution of self-adaptive software, accentuating key milestones along the journey. Subsequently, recent advancements in software performance modeling at runtime and the role of learning-enabled performance management during software operation are presented. 
+Two recent works are highlighted: one focusing on constructing robust performance models to sustain continuous operation and deployment of cloud-native software, and the other on utilizing multimodal models for performance anomaly detection. The former supports cloud operations like continuous deployment of co-located applications, migration, consolidation of services, or scaling in response to workloads or interferences. The latter is tailored to support performance anomaly detection, localization, and identification of root causes, facilitating swift remediation of faults using generative AI. The final segment of the talk delves into current challenges in developing self-adaptive systems, presenting insights from a recent survey on the state of self-adaptive software in the industry and the challenges perceived by practitioners.
+
+### Keynote
+
+**Vittorio Cortellessa**, University of L’Aquila
+
+_Biography_: 
+
+Vittorio Cortellessa is Professor at the Department of Computer Science and Engineering, and Mathematics of University of L’Aquila. He had received his Ph.D. in Computer Science at University of Roma Tor Vergata in 1995. Between 1996 and 1999 he held postdoc positions at the same institution and at European Space Agency. In 2000 and 2001 he has been Research Assistant Professor at the Computer Science and Electrical Engineering Department of West Virginia University. Since 2022 he is at University of L’Aquila. His main research interests are in the areas of Software Performance, Software Reliability, and Model-Driven Engineering. He has published more than 120 papers on international conferences and jour- nals in these areas, and he has co-authored a monographic book on Software Performance. He has served and serves in program committees and editorial boards of conference and journals in the Software Engineering domain. He is currently Co-Chair of the Steering Committee of ACM/SPEC International Conference on Performance Engineering (ICPE) and member of the Steering Committee of IEEE International Conference on Software Architecture (ICSA). More information at: http://people.disim.univaq.it/cortelle/.
+
+
+**_25+ years of Software Performance: From Integrated System Modelling to ML-based Analysis, What’s Next?_**
+
+_Abstract_: 
+
+A new era has been opened at the end of last century in the performance analysis research area, when an explicit and independent role has started to be given to software in performance analysis of computing systems. Indeed, software has moved from being a monolithic element, strictly dependent on the platform where it is deployed and exclusively aimed at producing values to parameterize a platform model, to become an independent model itself, with its own components and interactions. This change has impacted all fields of this research area, such as: modeling languages, processes for analysis and synthesis of software models, platform model parameterization, performance model solution techniques, interpretation of results, benchmarking and performance testing. It has also represented one of the triggers that lead to the birth of a research community around the computing system performance issues strictly related to software aspects. Indeed, in 1998 the first ACM Workshop on Software and Performance (WOSP) took place, with the aim of getting together researchers and practitioners of software area with the ones of the performance area, so to offer a playground where different skills and expertise could join and origi- nate a new vision on the role of software in performance assessment. This talk attempts to reconstruct the road of software performance research that has started at the time of the first WOSP event in 1998 down to today events (i.e., ICPE conference, WOSP-C and other workshops). The spirit of the talk is to observe the evolution of this research area, including successful and (apparently) unsuccessful directions. Some promising directions will be tentatively sketched by “standing on the shoulders of giants”.
+
+---
+
+### Accepted papers
+
+
+Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
+
+Josef Mayrhofer.	**Establish a Performance Engineering Culture in Organizations**
+
+Rares Dobre, Zifeng Niu and Giuliano Casale.	**Approximating Fork-Join Systems via Mixed Model Transformations**
+
+Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**
+
+Andreas Brunnert.	**Green Software Metrics**
+
+---
+
 
 
 ## Call for paper
